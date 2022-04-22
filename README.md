@@ -162,3 +162,4 @@ Each row in the table (that is, each record in the database) is a tuple and each
 In a two-dimensional table, tuples are also called rows.
 
 
+#Chen
