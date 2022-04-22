@@ -24,14 +24,14 @@
 </p>
 
 <p align="center">
-	<a target="_blank" href="https://search.maven.org/artifact/com.whaleal.mars/mars-all">
-		<img src="https://img.shields.io/maven-central/v/com.whaleal.mars/mars-core.svg?label=Maven%20Central" />
+	<a target="_blank" href="https://search.maven.org/artifact/com.whaleal.tuple/tuple-all">
+		<img src="https://img.shields.io/maven-central/v/com.whaleal.tuple/tuple-core.svg?label=Maven%20Central" />
 	</a>
 	<a target="_blank" href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html">
 		<img src="https://img.shields.io/badge/JDK-8+-green.svg" />
 	</a>
-	<a target="_blank" href='https://github.com/whaleal/mars'>
-		<img src="https://img.shields.io/github/stars/whaleal/mars.svg?style=social" alt="github star"/>
+	<a target="_blank" href='https://github.com/whaleal/tuple'>
+		<img src="https://img.shields.io/github/stars/whaleal/tuple.svg?style=social" alt="github star"/>
 	</a>
 </p>
 
@@ -135,7 +135,7 @@ tuple欢迎任何人为tuple添砖加瓦，贡献代码，不过维护者是一�
 
 1. 注释完备，尤其每个新增的方法应按照Java文档规范标明方法说明、参数说明、返回值说明等信息，必要时请添加单元测试，如果愿意，也可以加上你的大名。
 2. tuple的缩进按照IDEA,IDEA真香，默认（tab）缩进，所以请遵守（不要和我争执空格与tab的问题，这是一个病人的习惯）。
-3. 新加的方法不要使用第三方库的方法，mars遵循无依赖原则（除非在extra模块中加方法工具）。
+3. 新加的方法不要使用第三方库的方法，tuple遵循无依赖原则（除非在extra模块中加方法工具）。
 4. 请pull request到`v1-dev`分支。tuple在1.x版本后使用了新的分支：`v1-main`是主分支，表示已经发布中央库的版本，这个分支不允许pr，也不允许修改。
 
 -------------------------------------------------------------------------------
