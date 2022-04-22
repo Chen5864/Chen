@@ -11,6 +11,7 @@ Tuple is a basic concept in relational database. Relationship is a table. Each r
 In a two-dimensional table, tuples are also called rows.
 
 
+
 #Why use it
 
 For example, if you need to return multiple values, we use java, usually define a Model class, or simply put it directly in MAP,
